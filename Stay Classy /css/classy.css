@@ -1,0 +1,26 @@
+.body{
+font-family: "Palatino Linotype", "Book Antiqua", Palatino, serif;
+color:#ff99cc;
+padding:10px;
+}
+h1{
+  color:#ffffff;
+}
+h1{
+  background-color:#00ff00;
+}
+.p1{
+  color:#ffffff;
+  background-color:#ff99cc;
+}
+.p2{
+  background-color:#ffffff;
+  color:#595959;
+}
+.magical_box{
+  border: 2px solid#665544;
+  padding:inherit;
+  background-color:#595959;
+}
+
+/* whenever you do classes you do a dot then class */
